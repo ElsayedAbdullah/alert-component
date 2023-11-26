@@ -1,4 +1,4 @@
-import Alert from "@/components/Alert";
+import Alert from "../components/Alert";
 import { BellRing, Ban, Info, CheckCheck, AlertTriangle } from "lucide-react";
 
 export default function Home() {
